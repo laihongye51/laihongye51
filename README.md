@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @laihongye51
+- 👀 I’m interested in Web. I’m currently learning Vue.js.
+- 🌱 Web development student skilled in Vue.js. Striving for intuitive, responsive web designs.
